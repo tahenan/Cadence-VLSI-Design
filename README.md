@@ -11,9 +11,9 @@ bit floating point numbers as inputs and returns their product.
 <br />
 
 # Proposed Solution
-Multiplication of floating point numbers in binary representation consists of two aspects:
- ○ Multiplication of the fractional part - called the mantissa.
- ○ Addition of the integral part - called the exponent.
+Multiplication of floating point numbers in binary representation consists of two aspects: <br />
+ ○ Multiplication of the fractional part - called the mantissa.<br />
+ ○ Addition of the integral part - called the exponent.<br />
 <br />
 
  ![alt text](https://github.com/tahenan/Cadence-VLSI-Design/blob/main/photos/vls5.png)
@@ -28,13 +28,13 @@ Multiplication of floating point numbers in binary representation consists of tw
 <br />
 
 # Completed Circuit Schematic Simulation 
-For the inputs 10110011 and 01101001, the values are:
- ● Exponents
-    ○ EA- 1011
-    ○ EB- 0110
- ● Mantissae
-    ○ MA- 0011
-    ○ MB- 1001
+For the inputs 10110011 and 01101001, the values are:<br />
+ ● Exponents<br />
+    ○ EA- 1011<br />
+    ○ EB- 0110<br />
+ ● Mantissae<br />
+    ○ MA- 0011<br />
+    ○ MB- 1001<br />
 
 <br />
 
